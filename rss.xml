@@ -329,9 +329,9 @@ git push -u origin main
 &lt;p&gt;&lt;img src=&quot;https://lsky.tioryio.com/i/2025/08/23/68a8dd27c0da4.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://lsky.tioryio.com/i/2025/08/23/68a8dd549a85c.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
 &lt;h3&gt;泛域名证书申请&lt;/h3&gt;
-&lt;p&gt;参考这篇文章啦，非常详细&lt;/p&gt;
-&lt;p&gt;域名要托管到cloudflare！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/434217&quot;&gt;免费泛域名 SSL 证书申请及自动续期（使用 1Panel 面板）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;参考这篇文章啦，非常详细
+&lt;a href=&quot;https://linux.do/t/topic/434217&quot;&gt;免费泛域名 SSL 证书申请及自动续期（使用 1Panel 面板）&lt;/a&gt;
+如果你使用cloudflare账号，那你的域名也要托管到cloudflare。&lt;/p&gt;
 &lt;h3&gt;配置&lt;/h3&gt;
 &lt;p&gt;在浏览器地址栏输入&lt;code&gt;服务器地址:lsky服务端口&lt;/code&gt;或者是你做完反代的域名。
 填写数据库配置，创建管理员账户&lt;/p&gt;
