@@ -376,6 +376,8 @@ git push -u origin main
 &lt;p&gt;::bilibili{id=&quot;BV1fNNreEEDi&quot;}&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.hezexian.cn/2024/02/15/lsky+1panel+https+%E9%9B%A8%E4%BA%91%E9%85%8D%E7%BD%AE/index.html&quot;&gt;1panel+雨云服务器+https配置lsky-pro（兰空图床）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/434217/1&quot;&gt;免费泛域名 SSL 证书申请及自动续期（使用 1Panel 面板）&lt;/a&gt;&lt;/p&gt;
+</content:encoded></item><item><title>zen97</title><link>https://fuwari.vercel.app/posts/zen97/</link><guid isPermaLink="true">https://fuwari.vercel.app/posts/zen97/</guid><pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;若$f(t)→f(at+b)$，先进性&lt;strong&gt;移位&lt;/strong&gt;
+若$f(at+b)→f(t)$，先进行&lt;strong&gt;尺度变换&lt;/strong&gt;&lt;/p&gt;
 </content:encoded></item><item><title>zen96</title><link>https://fuwari.vercel.app/posts/zen96/</link><guid isPermaLink="true">https://fuwari.vercel.app/posts/zen96/</guid><pubDate>Sat, 23 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;s&gt;&lt;em&gt;&lt;strong&gt;啥也没干！&lt;/strong&gt;&lt;/em&gt;&lt;/s&gt;&lt;/h2&gt;
 </content:encoded></item><item><title>zen95</title><link>https://fuwari.vercel.app/posts/zen95/</link><guid isPermaLink="true">https://fuwari.vercel.app/posts/zen95/</guid><pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;对称区间非奇非偶&lt;/h1&gt;
 &lt;p&gt;$$\int_{-a}^{a} f(x) , dx = \int_{0}^{a} [f(x) + f(-x)] , dx \quad (a &amp;gt; 0)$$&lt;/p&gt;
