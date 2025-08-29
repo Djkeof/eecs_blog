@@ -86,9 +86,8 @@ $$\int_{-a}^{a} f(x) \, dx = \int_{0}^{a} [f(x) + f(-x)] \, dx \quad (a &amp;gt;
 
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h3&gt;本地运行&lt;/h3&gt;
-&lt;p&gt;如果没有结束终端任务，回到浏览器博客页面查看更改是否生效。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://lsky.tioryio.com/i/2025/08/23/68a8ed5eb4d31.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;如果关闭了终端，在博客根目录下打开终端运行&lt;/p&gt;
+&lt;p&gt;如果没有结束终端任务，回到浏览器博客页面查看更改是否生效。
+如果关闭了终端，在博客根目录下打开终端运行&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;pnpm dev
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;在本地确保配置完成，博客运行正常进入下一步&lt;/p&gt;
